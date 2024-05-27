@@ -1,6 +1,6 @@
-# Quantum Simple RNG Repo
+# Simple Quantum RNG Repo
 
-Welcome to the Quantum Simple RNG repo! This repository contains a simple code snippet demonstrating the generation of truly random numbers using quantum computing techniques.
+Welcome to the Simple Quantum RNG repo! This repository contains a simple code snippet demonstrating the generation of truly random numbers using quantum computing techniques.
 
 ## Overview
 
@@ -15,7 +15,7 @@ To run the code snippet, follow these steps:
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed.
 3. Install the required dependencies by running `pip install -r requirements.txt`.
-4. Run the script `quantum_rng.py`.
+4. Run the script `simple_QRNG.py`.
 
 ## Usage
 
